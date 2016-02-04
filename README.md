@@ -1,5 +1,6 @@
 # modClass_hillslope_diffusion
-Charlie Shobe, created Feb 3rd, 2016
+Charlie Shobe, CU Boulder
+ created Feb 3rd, 2016
 
 Repo for hillslope diffusion codes, figures, etc
 
