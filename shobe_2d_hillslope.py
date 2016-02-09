@@ -27,6 +27,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 import matplotlib
+from mpl_toolkits.mplot3d import Axes3D
 
 #set global plotting parameters
 matplotlib.rcParams.update({'font.size': 16})
